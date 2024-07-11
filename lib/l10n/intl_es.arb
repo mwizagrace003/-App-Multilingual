@@ -1,0 +1,13 @@
+{
+  "@@locale": "es",
+  "homeScreenTitle": "Pantalla de inicio",
+  "signIn": "Iniciar sesión",
+  "signUp": "Regístrate",
+  "calculator": "Calculadora",
+  "menu": "Menú",
+  "selectFromGallery": "Seleccionar de la galería",
+  "takePicture": "Tomar una foto",
+  "darkMode": "Modo oscuro",
+  "contacts": "Contactos",
+  "chooseLanguage": "Elige idioma"
+}

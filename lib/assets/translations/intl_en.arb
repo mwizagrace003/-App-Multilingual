@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "homeScreenTitle": "Home Screen",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "calculator": "Calculator",
+  "menu": "Menu",
+  "selectFromGallery": "Select from Gallery",
+  "takePicture": "Take a Picture",
+  "darkMode": "Dark Mode",
+  "contacts": "Contacts",
+  "chooseLanguage": "Choose Language"
+}
